@@ -1,6 +1,8 @@
 # Social-Media-Analytics
 
 Homework 1: Social Influence (Twitter)
+---------------------------------------------------------------------------------------
+
 
 The learning objectives for this assignment are to learn ways to
 
@@ -9,6 +11,9 @@ The learning objectives for this assignment are to learn ways to
 (ii) Quantify the financial value of influence
 
 (iii) Identify and leverage influencers 
+
+
+------------------
 
 
 The assignment has two parts: I and II. 
